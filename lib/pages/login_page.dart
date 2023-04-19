@@ -46,7 +46,7 @@ class LoginPage extends StatelessWidget {
                 ElevatedButton(
                     style: TextButton.styleFrom(),
                     onPressed: () {
-                      print("Welcom Danish!");
+                      print("Welcome Danish!");
                     },
                     child: const Text("Sign in"))
               ],
